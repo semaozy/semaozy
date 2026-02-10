@@ -67,11 +67,12 @@
     <img src="https://img.shields.io/badge/C++-ffb6c1?style=flat&logo=c%2B%2B"/>
   </p>
 
-  <p><strong style="color:#FFB6C1;"> Mobile Development </strong></p>
+<p><strong style="color:#FFB6C1;"> Mobile Development </strong></p>
   <p>
     <img src="https://img.shields.io/badge/Flutter-ffb6c1?style=flat&logo=flutter"/>
+    <img src="https://img.shields.io/badge/React_Native-ffb6c1?style=flat&logo=react"/>
   </p>
-
+  
   <p><strong style="color:#FFB6C1;"> Languages </strong></p>
   <p>
     <img src="https://img.shields.io/badge/Turkish-Native-ffb6c1?style=flat"/>
