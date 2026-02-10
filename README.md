@@ -1,27 +1,27 @@
 <div style="background-color:#0A0A0A; padding:20px; border-radius:10px;" align="center"> 
-  <!-- Başlık --> 
-  <h2 style="color:#FF2E63;">Hello there</h2>
+  <h2 style="color:#FF2E63;">Hello there, I'm Sema!</h2>
 
-
-  <!-- GitHub Rozeti -->
   <br>
   <p align="center">
-    <a href="https://github.com/viranora">
-      <img src="https://img.shields.io/badge/GitHub-viranora-FF2E63?style=for-the-badge&logo=github" />
+    <a href="https://github.com/semaozy">
+      <img src="https://img.shields.io/badge/GitHub-semaozy-FF2E63?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/semaa39/">
+      <img src="https://img.shields.io/badge/LinkedIn-semaa39-FF2E63?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.kaggle.com/semaozyilmaz">
+      <img src="https://img.shields.io/badge/Kaggle-semaozyilmaz-FF2E63?style=for-the-badge&logo=kaggle&logoColor=white" />
     </a>
   </p>
 
-  <!-- Profil Görüntülenme Sayısı -->
   <br>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=viranova&label=Profile%20views&color=FF2E63&style=flat" alt="viranova" />
+    <img src="https://komarev.com/ghpvc/?username=semaozy&label=Profile%20views&color=FF2E63&style=flat" alt="semaozy" />
   </p>
 
-  <!-- Yetenekler -->
   <br>
   <h3 style="color:#FF2E63;"> MY SKILLS </h3>
 
-  <!-- Veri Bilimi ve Yapay Zeka -->
   <p><strong style="color:#FFB6C1;"> AI and Data Science </strong></p>
   <p>
     <img src="https://img.shields.io/badge/Python-ffb6c1?style=flat&logo=python"/>
@@ -37,7 +37,6 @@
     <img src="https://img.shields.io/badge/NLP-ffb6c1?style=flat"/>
   </p>
 
-  <!-- Frontend Geliştirme -->
   <p><strong style="color:#FFB6C1;"> Frontend Development </strong></p>
   <p>
     <img src="https://img.shields.io/badge/HTML-ffb6c1?style=flat&logo=html5"/>
@@ -53,7 +52,6 @@
     <img src="https://img.shields.io/badge/Material%20UI-ffb6c1?style=flat&logo=mui"/>
   </p>
 
-  <!-- Backend Geliştirme -->
   <p><strong style="color:#FFB6C1;"> Backend Development </strong></p>
   <p>
     <img src="https://img.shields.io/badge/Node.js-ffb6c1?style=flat&logo=node.js"/>
@@ -63,25 +61,20 @@
     <img src="https://img.shields.io/badge/Streamlit-ffb6c1?style=flat&logo=streamlit"/>
   </p>
 
-  <!-- OOP & Diller -->
   <p><strong style="color:#FFB6C1;"> Programming Languages & OOP </strong></p>
   <p>
     <img src="https://img.shields.io/badge/Java-ffb6c1?style=flat&logo=java"/>
     <img src="https://img.shields.io/badge/C++-ffb6c1?style=flat&logo=c%2B%2B"/>
   </p>
 
-  <!-- Mobil Uygulama -->
   <p><strong style="color:#FFB6C1;"> Mobile Development </strong></p>
   <p>
     <img src="https://img.shields.io/badge/Flutter-ffb6c1?style=flat&logo=flutter"/>
   </p>
 
-  <!-- Diller -->
   <p><strong style="color:#FFB6C1;"> Languages </strong></p>
   <p>
     <img src="https://img.shields.io/badge/Turkish-Native-ffb6c1?style=flat"/>
     <img src="https://img.shields.io/badge/English-C1-ffb6c1?style=flat"/>
   </p>
-
 </div>
-
