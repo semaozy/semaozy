@@ -56,7 +56,6 @@
   <p>
     <img src="https://img.shields.io/badge/Node.js-ffb6c1?style=flat&logo=node.js"/>
     <img src="https://img.shields.io/badge/Express.js-ffb6c1?style=flat&logo=express"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-ffb6c1?style=flat&logo=spring"/>
     <img src="https://img.shields.io/badge/Flask-ffb6c1?style=flat&logo=flask"/>
     <img src="https://img.shields.io/badge/Streamlit-ffb6c1?style=flat&logo=streamlit"/>
   </p>
