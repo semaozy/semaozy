@@ -69,8 +69,8 @@
 
 <p><strong style="color:#FFB6C1;"> Mobile Development </strong></p>
   <p>
-    <img src="https://img.shields.io/badge/Flutter-ffb6c1?style=flat&logo=flutter"/>
-    <img src="https://img.shields.io/badge/React_Native-ffb6c1?style=flat&logo=react"/>
+    <img src="https://img.shields.io/badge/Flutter-ffb6c1?style=flat&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React%20Native-ffb6c1?style=flat&logo=react&logoColor=white"/>
   </p>
   
   <p><strong style="color:#FFB6C1;"> Languages </strong></p>
