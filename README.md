@@ -75,6 +75,6 @@
   <p><strong style="color:#FFB6C1;"> Languages </strong></p>
   <p>
     <img src="https://img.shields.io/badge/Turkish-Native-ffb6c1?style=flat"/>
-    <img src="https://img.shields.io/badge/English-C1-ffb6c1?style=flat"/>
+    <img src="https://img.shields.io/badge/English-B2+-ffb6c1?style=flat"/>
   </p>
 </div>
