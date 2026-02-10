@@ -2,17 +2,17 @@
   <h2 style="color:#FF2E63;">Hello there, I'm Sema!</h2>
 
   <br>
-  <p align="center">
-    <a href="https://github.com/semaozy">
-      <img src="https://img.shields.io/badge/GitHub-semaozy-FF2E63?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/semaa39/">
-      <img src="https://img.shields.io/badge/LinkedIn-semaa39-FF2E63?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.kaggle.com/semaozyilmaz">
-      <img src="https://img.shields.io/badge/Kaggle-semaozyilmaz-FF2E63?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://github.com/semaozy">
+    <img src="https://img.shields.io/badge/GitHub-semaozy-FF2E63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/semaa39/">
+    <img src="https://img.shields.io/badge/LinkedIn-semaa39-FF2E63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/semaozyilmaz">
+    <img src="https://img.shields.io/badge/Kaggle-semaozyilmaz-FF2E63?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</p>
 
   <br>
   <p align="center">
