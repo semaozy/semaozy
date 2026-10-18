@@ -15,9 +15,6 @@
 </p>
 
   <br>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=semaozy&label=Profile%20views&color=FF2E63&style=flat" alt="semaozy" />
-  </p>
 
   <br>
   <h3 style="color:#FF2E63;"> MY SKILLS </h3>
