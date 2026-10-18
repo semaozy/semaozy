@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GitHub-semaozy-FF2E63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/semaozyilmaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-semaa39-FF2E63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-sema-FF2E63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/semaozyilmaz">
     <img src="https://img.shields.io/badge/Kaggle-semaozyilmaz-FF2E63?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
